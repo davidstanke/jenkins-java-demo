@@ -1,2 +1,2 @@
 # jenkins-java-demo
-Dummy repo against which to configure Jenkins!
+A dummy repo against which to configure Jenkins!
